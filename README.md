@@ -20,7 +20,7 @@ The discriminator distinguishes between real anime faces and generated ones. Var
 
 ## Training Process
 
-Training involved iterating through batches of images, updating the generator and discriminator networks. Key hyperparameters: learning rate (0.0002), batch size (64), epochs (100).
+Training involved iterating through batches of images, updating the generator and discriminator networks. Key hyperparameters: learning rate (0.0002), batch size (64), epochs (35).
 
 ## Results and Observations
 
